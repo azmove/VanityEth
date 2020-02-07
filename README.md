@@ -1,5 +1,5 @@
 # Vanity Eth
-
+这是一款批量生成ETH地址的脚本工具 
 Nodejs based tool to generate vanity ethereum addresses
 
 # Features!
